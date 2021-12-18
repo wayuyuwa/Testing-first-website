@@ -20,9 +20,9 @@ _Italic items goes here_
 [Click here for google!](www.google.com)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-`
-hahahaha
-`
+```
+cout << "Hello World!"
+```
 ```markdown
 Syntax highlighted code block
 
